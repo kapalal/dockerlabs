@@ -2,7 +2,7 @@ repo_name: kapalal/dockerlabs
 report_id: ab4514ca5350c94f4d2ac409c11da2ee
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:12:01+00:00'
+timestamp: '2024-02-29T18:18:38+00:00'
 requested_by: collabnix
 provider: github
 branch: master
@@ -110,7 +110,7 @@ tools:
   detection_source_url: https://github.com/kapalal/dockerlabs
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -359,7 +359,7 @@ tools:
   last_updated_by: Ajeet Raina
   last_updated_on: 2017-04-02 11:06:19.000000000 Z
 - name: Bash-My-AWS
-  description: 'CLI Commands for AWS '
+  description: CLI Commands for AWS
   website_url: https://bash-my-aws.org/
   license: MIT
   open_source: true
